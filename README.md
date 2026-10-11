@@ -74,28 +74,6 @@ Uses specialist agents to analyze logs, metrics, service dependencies, runbooks,
 
 ---
 
-### ⚙️ PES-VCS
-**A version control system built from scratch in C**
-
-Explores the internals behind version control through content-addressable objects, trees, commits, staging, snapshots, and filesystem concepts.
-
-`C` `Systems Programming` `Data Structures` `Git Internals`
-
-→ [View repository](https://github.com/srikanth97318/A-Version-Control-System-from-Scratch)
-
----
-
-### 🐍 Neon Snake
-**A dark-neon Snake game with AI-generated music**
-
-A web experience combining a classic Snake game with an AI-generated music player.
-
-`TypeScript` `React` `Gemini`
-
-→ [View repository](https://github.com/srikanth97318/neon-snake-game)
-
----
-
 ### 📡 ARP Handling
 **Computer networking implementation**
 
