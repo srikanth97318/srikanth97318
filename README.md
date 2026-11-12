@@ -1,202 +1,122 @@
 <div align="center">
 
-# SRI KANTH G
+<img src="./assets/hero.svg" alt="Sri Kanth G: moonwalk x Scissor Seven animated banner" width="100%" />
 
-### AI/ML • GENERATIVE AI • AGENTIC SYSTEMS • SOFTWARE ENGINEERING
+<a href="https://github.com/srikanth97318">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A5F3FF&center=true&vCenter=true&width=720&lines=Smooth+on+the+surface.+Sharp+underneath.;Multi-agent+systems+for+real+incidents;Hybrid+retrieval+%2B+learning-to-rank;Build+it.+Break+it.+Understand+it.+Improve+it." alt="typing" />
+</a>
 
-**Building intelligent systems that solve real problems.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-srikanth97318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanth97318)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri%20Kanth%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-kanth-g/)
-
-</div>
-
----
-
-## `~/about`
-
-```bash
-$ whoami
-
-Sri Kanth G
-
-$ mission
-
-Build practical AI systems.
-Understand the engineering underneath them.
-Turn ideas into usable software.
-
-$ focus
-
-AI / ML
-Generative AI
-RAG Systems
-AI Agents
-LLM Applications
-Software Engineering
-Developer Tools
-```
-
----
-
-## ⚡ Selected Systems
-
-### 🤖 Incident Commander
-**Multi-agent AI incident management for DevOps**
-
-Coordinates specialized agents for security checks, incident triage, diagnosis, MCP-based investigation, human approval, and automated documentation.
-
-`Python` `AI Agents` `MCP` `Gemini` `DevOps`
-
-→ [View repository](https://github.com/srikanth97318/Incident_Commander)
-
----
-
-### 🧠 NexusMatch Engine
-**Enterprise-grade talent matching and ranking engine**
-
-Combines asynchronous ingestion, hybrid dense/sparse retrieval, LightGBM LambdaMART ranking, SHAP explainability, and fact-validated LLM reranking.
-
-`Python` `FastAPI` `Qdrant` `PostgreSQL` `LightGBM` `SHAP` `LLMs`
-
-→ [View repository](https://github.com/srikanth97318/NexusMatchEngine)
-
----
-
-### 📈 TradeSage Ops
-**AI-powered multi-agent incident command center**
-
-Uses specialist agents to analyze logs, metrics, service dependencies, runbooks, blast radius, timelines, and probable root causes for production incidents.
-
-`Python` `AI Agents` `DevOps` `SRE`
-
-→ [View repository](https://github.com/srikanth97318/Trade_ops_agents)
-
----
-
-### 📡 ARP Handling
-**Computer networking implementation**
-
-A hands-on networking project focused on Address Resolution Protocol concepts and packet-level communication.
-
-`Python` `Computer Networks` `Networking`
-
-→ [View repository](https://github.com/srikanth97318/ARP-handling-computer-networks-)
-
----
-
-## 🧩 How I Build
-
-```text
-             ┌──────────────────────┐
-             │     REAL PROBLEM     │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │     DATA / INPUT     │
-             └──────────┬───────────┘
-                        │
-              ┌─────────┼─────────┐
-              ▼         ▼         ▼
-             ML        RAG      AGENTS
-              │         │         │
-              └─────────┼─────────┘
-                        ▼
-             ┌──────────────────────┐
-             │   SOFTWARE SYSTEM    │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │ EVALUATE → IMPROVE   │
-             └──────────────────────┘
-```
-
----
-
-## 🛠️ Engineering Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1F6FEB?style=flat-square)
-
-### Backend / Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### AI / Developer Tools
-`LangChain` `Hugging Face` `MCP` `Vector Databases` `Streamlit` `REST APIs`
-
----
-
-## 🔭 Current Direction
-
-```text
-[01] AI AGENTS
-     └── Tool-using and multi-agent workflows
-
-[02] GENERATIVE AI
-     └── LLM applications and evaluation
-
-[03] RAG
-     └── Retrieval, grounding and reducing hallucinations
-
-[04] SOFTWARE SYSTEMS
-     └── APIs, infrastructure and developer tooling
-
-[05] MACHINE LEARNING
-     └── From data → model → evaluation → deployment
-```
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srikanth97318&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth97318&layout=compact&hide_border=true&theme=transparent" height="170" />
+[LinkedIn](https://www.linkedin.com/in/sri-kanth-g/) · [X](https://x.com/Srikanth97318) · [Repositories](https://github.com/srikanth97318?tab=repositories)
 
 </div>
 
----
+<br/>
 
-## 📡 Build Philosophy
+## 🌙 About
 
-> **Build it. Break it. Understand it. Improve it.**
+I build **AI agents, RAG pipelines and LLM applications**, then dig into the engineering underneath until I can explain every layer.
+Moonwalk-smooth interfaces on top, sharp systems underneath.
 
-I prefer learning by building systems from the ground up, testing assumptions, and understanding what happens underneath the abstractions.
+| | |
+|---|---|
+| 🔭 **Working on** | Multi-agent workflows, retrieval and grounding, secure AI systems |
+| 🌱 **Learning** | LLM evaluation, distributed systems, databases |
+| 🎧 **Soundtrack** | Michael Jackson on repeat |
+| ✂️ **Watching** | Scissor Seven |
 
----
+<br/>
 
-## 🌐 Connect
+## ⚡ Best Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 [Incident Commander](https://github.com/srikanth97318/Incident_Commander)
+Multi-agent incident management for DevOps. Specialist agents cover security checks, triage, diagnosis, MCP-based investigation, human approval and auto-generated documentation.
+
+`Python` `AI Agents` `MCP` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [NexusMatch Engine](https://github.com/srikanth97318/NexusMatchEngine)
+Enterprise talent matching and ranking: async ingestion, hybrid dense + sparse retrieval, LightGBM LambdaMART ranking, SHAP explainability and fact-validated LLM reranking.
+
+`FastAPI` `Qdrant` `PostgreSQL` `LightGBM` `SHAP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [TradeSage Ops](https://github.com/srikanth97318/Trade_ops_agents)
+AI incident command center. Agents analyse logs, metrics, service dependencies, runbooks, blast radius and timelines to find probable root causes.
+
+`Python` `AI Agents` `SRE`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [SecureFix AI System](https://github.com/srikanth97318/SecureFix-AI-System)
+My most recent project: AI-assisted security fixing with a human in the loop.
+
+`Python` `Security` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [aeigol-journal](https://github.com/srikanth97318/aeigol-journal)
+Zero-trust AI journaling app with private multi-turn reflection, cryptographic authentication and tenant isolation.
+
+`Security` `AI` `Zero-trust`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Stock Market Pattern Detection](https://github.com/srikanth97318/stock-market-pattern-detection)
+Streamlit dashboard that uses normalization, correlation matrices and eigen decomposition to expose hidden relationships and dominant trends.
+
+`Streamlit` `Linear Algebra` `Finance`
+
+</td>
+</tr>
+</table>
+
+<sub>More experiments, from a Git-style VCS built from scratch to ARP packet handling, live in my [repositories](https://github.com/srikanth97318?tab=repositories).</sub>
+
+<br/>
+
+## 🧰 Toolbox
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-srikanth97318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanth97318)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri%20Kanth%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-kanth-g/)
-[![Instagram](https://img.shields.io/badge/Instagram-srikanth.the.great-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srikanth.the.great/)
-[![X](https://img.shields.io/badge/X-@Srikanth97318-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Srikanth97318)
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,react,fastapi,postgres,docker,linux,git&theme=dark" alt="skills" />
+
+<sub>LangChain · Hugging Face · MCP · Qdrant · LightGBM · Vector DBs · Streamlit · REST APIs</sub>
 
 </div>
 
----
+<br/>
+
+## 📊 Activity
 
 <div align="center">
 
-**AI • SYSTEMS • BUILDING**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srikanth97318&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5f3ff&icon_color=a78bfa&text_color=c9d1d9" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth97318&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5f3ff&text_color=c9d1d9" alt="languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-kanth-g/)
+[![X](https://img.shields.io/badge/Follow_on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Srikanth97318)
 
 </div>
