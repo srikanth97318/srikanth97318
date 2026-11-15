@@ -14,8 +14,8 @@ X0, Y0 = 35, 84
 LEN = 7            # snake length in cells
 DT = 0.16          # seconds per step
 HOLD = 2.5         # seconds to show the finished board
-DIM, LIT, FLASH = "#171b30", "#ffa116", "#ffe2b0"   # LeetCode orange
-TXT_DIM, TXT_LIT = "#3b4170", "#2b1700"
+DIM, LIT, FLASH = "#202020", "#f2f2f2", "#ffffff"
+TXT_DIM, TXT_LIT = "#777777", "#000000"
 
 def read_problems(repo):
     if not repo:
@@ -49,12 +49,12 @@ def build(problems):
         return ";".join(f"{v:.4f}" for v in vals)
 
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 {H}" width="830" height="{H}" role="img" aria-label="Snake lighting up {n} solved LeetCode problems">',
-           f'<rect width="830" height="{H}" rx="14" fill="#090b16"/><rect x=".5" y=".5" width="829" height="{H-1}" rx="14" fill="none" stroke="#242a4d"/>',
+           f'<rect width="830" height="{H}" rx="14" fill="#000000"/><rect x=".5" y=".5" width="829" height="{H-1}" rx="14" fill="none" stroke="#333333"/>',
            '<g font-family="\'Segoe UI\',\'Helvetica Neue\',Arial,sans-serif">',
-           f'<text x="35" y="44" font-size="22" font-weight="700" fill="#eef0ff">LeetCode</text>',
-           f'<text x="150" y="44" font-size="16" fill="#ffa116">{n} problems solved</text>',
-           '<text x="795" y="44" font-size="13" fill="#6f78b4" text-anchor="end">arrays · strings · trees · graphs · sliding window</text>',
-           f'<text x="35" y="{H-20}" font-size="12" fill="#4d5488">One cell per problem folder in srikanth97318/leetcodes</text></g>']
+           f'<text x="35" y="44" font-size="22" font-weight="700" fill="#ffffff">LeetCode</text>',
+           f'<text x="150" y="44" font-size="16" fill="#b3b3b3">{n} problems solved</text>',
+           '<text x="795" y="44" font-size="13" fill="#888888" text-anchor="end">arrays · strings · trees · graphs · sliding window</text>',
+           f'<text x="35" y="{H-20}" font-size="12" fill="#777777">One cell per problem folder in srikanth97318/leetcodes</text></g>']
 
     # cells
     reset = (run + 0.1) / D
@@ -80,8 +80,8 @@ def build(problems):
         keys = [t * DT / D for t in range(steps + 1)]
         pts.append(pts[-1]); keys.append(1.0)
         op = 1.0 if j == 0 else max(0.25, 0.85 - j * 0.1)
-        fill = "#ffffff" if j == 0 else "#d9dcff"
-        glow = ' style="filter:drop-shadow(0 0 6px #aab2ff)"' if j == 0 else ""
+        fill = "#ffffff" if j == 0 else "#bfbfbf"
+        glow = ' style="filter:drop-shadow(0 0 6px #ffffff)"' if j == 0 else ""
         out.append(f'<rect width="{size}" height="{size}" rx="{9 if j==0 else 8}" fill="{fill}" opacity="{op:.2f}"{glow}>'
                    f'<animateTransform attributeName="transform" type="translate" values="{";".join(f"{x:.0f} {y:.0f}" for x,y in pts)}" '
                    f'keyTimes="{kt(keys)}" dur="{D:.2f}s" repeatCount="indefinite"/></rect>')
