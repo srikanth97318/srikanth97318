@@ -50,12 +50,18 @@
 
 - **[Incident Commander](https://github.com/srikanth97318/Incident_Commander)** — Multi-agent incident management for DevOps: security checks, triage, diagnosis, MCP-based investigation, human approval and auto-generated docs.<br>
   `Python` `AI Agents` `MCP` `Gemini`
+- **[Medical RAG SYSTEM](https://github.com/srikanth97318/medical-rag)** — Retrieval-Augmented Generation system for medical document processing and QA With SELF correcting Engine framwork .<br>
+ `Jupyter Notebook` `AI` ` Healthcare`
 - **[NexusMatch Engine](https://github.com/srikanth97318/NexusMatchEngine)** — Talent matching and ranking with async ingestion, hybrid dense and sparse retrieval, LightGBM LambdaMART, SHAP explainability and fact-validated LLM reranking.<br>
   `FastAPI` `Qdrant` `PostgreSQL` `LightGBM`
 - **[SecureFix AI System](https://github.com/srikanth97318/SecureFix-AI-System)** — AI-assisted security fixing with a human in the loop.<br>
   `Python` `Security` `LLMs`
+- **[STAI COMPUTER VISION AI OPEN SOURCE](https://github.com/srikanth97318/STAI-COMPUTER-VISION-AI-OPEN-SOURCE)** — ALocal CCTV analysis tool using YOLO ONNX on CPU with optional Google Gemma vision review and Telegram incident alerts.<br>
+  `Python` `Computer Vision` `Security`
 - **[aeigol-journal](https://github.com/srikanth97318/aeigol-journal)** — Zero-trust AI journaling with private multi-turn reflection, cryptographic authentication and tenant isolation.<br>
   `Security` `AI` `Zero-trust`
+- **[PEEVEDl](https://github.com/srikanth97318/Predicting-Eruptive-Events-at-Volcanoes-from-Earthquake-Data)** — Machine learning model for predicting volcanic eruptions using seismic earthquake data.<br>
+  `Jupyter Notebook` ` Machine Learning` `Geophysict` -
 
 More experiments, from a Git-style VCS built from scratch to ARP packet handling, are in my [repositories](https://github.com/srikanth97318?tab=repositories).
 
