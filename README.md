@@ -17,13 +17,55 @@
 - I build AI agents, RAG pipelines and LLM applications, and dig into the engineering underneath until I can explain every layer.
 - **Currently building:** Multi-agent workflows, retrieval and grounding, secure AI systems
 - **Currently learning:** LLM evaluation, distributed systems, databases
-- **Outside of code:** Michael Jackson on repeat; watching Scissor Seven
+- **Outside of code:** RDJ MJ Prabhas on repeat; watching Scissor Seven & JJK & Black cover & Solo leveling
 
 <br clear="right">
 
 ## Languages and tools
 
-`Python` `FastAPI` `LangChain` `Hugging Face` `MCP` `Qdrant` `LightGBM` `PostgreSQL` `Streamlit` `Docker` `Linux` `Git`
+My technical interests span production AI, research, and quantum software, built on a shared foundation of programming, mathematics, and software engineering.
+
+<div align="center">
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face"></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></a>
+<a href="https://www.ibm.com/quantum/qiskit"><img src="https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&amp;logo=qiskit&amp;logoColor=white" alt="Qiskit"></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter"></a>
+</div>
+
+### Shared foundation
+
+- **Languages:** [Python](https://www.python.org/) for prototyping and data work; [C++](https://isocpp.org/) for performance-critical systems.
+- **Mathematics:** Linear algebra, multivariable calculus, probability, statistics, and optimization.
+- **Engineering:** [Git](https://git-scm.com/), Linux, data structures, algorithms, and automated testing.
+
+### AI / ML engineering
+
+- **Languages:** Python, SQL, and C++.
+- **Frameworks:** [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [JAX](https://jax.readthedocs.io/), and [scikit-learn](https://scikit-learn.org/).
+- **Generative AI:** [Hugging Face Transformers](https://huggingface.co/), [LangChain](https://www.langchain.com/), [LangGraph](https://www.langchain.com/langgraph), RAG, vector databases such as [Qdrant](https://qdrant.tech/), Pinecone, and Weaviate, plus prompt/context engineering.
+- **Production and MLOps:** [FastAPI](https://fastapi.tiangolo.com/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Apache Spark](https://spark.apache.org/), AWS, GCP, Azure, model evaluation, and deployment.
+- **Focus areas:** Fine-tuning, distributed training, observability, guardrails, and latency optimization.
+
+### AI / CS research
+
+- **Scientific computing:** [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), JAX, PyTorch, [CUDA](https://developer.nvidia.com/cuda-toolkit), and MPI.
+- **Experimentation:** [Weights & Biases](https://wandb.ai/), [MLflow](https://mlflow.org/), and [Jupyter](https://jupyter.org/) for reproducible experiments and benchmarks.
+- **Research practice:** Literature review, experimental design, statistical testing, real analysis, probability, information theory, mathematical reasoning, and technical writing.
+
+### Quantum software engineering
+
+- **Languages:** Python and C++.
+- **Frameworks:** [Qiskit](https://www.ibm.com/quantum/qiskit), [Cirq](https://quantumai.google/cirq), [PennyLane](https://pennylane.ai/), Amazon Braket, and [CUDA-Q](https://developer.nvidia.com/cuda-q).
+- **Foundations:** Quantum mechanics, Hilbert spaces, tensor products, circuits and gates, error correction, and noise modeling.
+- **Focus areas:** VQE, QAOA, circuit transpilation, hybrid quantum-classical workflows, and quantum software testing.
+
+**Role focus:** Productionize scalable AI products · advance research methods · build algorithms and control software for quantum processors.
 
 ## Selected projects
 
