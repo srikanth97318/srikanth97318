@@ -61,7 +61,7 @@
 - **[aeigol-journal](https://github.com/srikanth97318/aeigol-journal)** — Zero-trust AI journaling with private multi-turn reflection, cryptographic authentication and tenant isolation.<br>
   `Security` `AI` `Zero-trust`
 - **[PEEVEDl](https://github.com/srikanth97318/Predicting-Eruptive-Events-at-Volcanoes-from-Earthquake-Data)** — Machine learning model for predicting volcanic eruptions using seismic earthquake data.<br>
-  `Jupyter Notebook` ` Machine Learning` `Geophysict` -
+  `Jupyter Notebook` ` Machine Learning` `Geophysict` 
 
 More experiments, from a Git-style VCS built from scratch to ARP packet handling, are in my [repositories](https://github.com/srikanth97318?tab=repositories).
 
